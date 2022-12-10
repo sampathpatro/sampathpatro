@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sampathpatro
-- 👀 I’m interested in making mobile apps
-- 🌱 I’m currently learning to work with flutter
+- 👀 I’m interested in learning about decentralised technology
+- 🌱 I’m currently learning to work with smart contracts using Solidity
 - 💞️ I’m looking to collaborate on ANYTHING
 - 📫 How to reach me - Instagram: @_sampathpatro_
 
